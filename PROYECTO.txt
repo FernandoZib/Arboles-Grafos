@@ -1,0 +1,8 @@
+Programa de árboles y grafos
+En equipos de trabajo, realizar un programa que haga uso de Arboles Binarios y otro de Grafos, y que soluciones un problema de una situación real o hipotética. Consideren:
+Manejo de objetos para el uso de la información (puede usar cualquier clase con por lo menos 3 tipos de datos diferentes, NO SE ACEPTARÁ UN UNICO DATO SIMPLE EN LAS CLASES)
+Integración del objeto en las clases Arbol y Grafo
+Clases de Prueba o Test con Menú  para las operaciones (insertar, buscar, eliminar, e imprimir.
+Impresión de los datos del árbol y del grafo usando las operaciones y orden correspondientes.
+Deberá simular un proceso de algún problema real o hipotético
+Valor de la actividad: 40% de la calificación
